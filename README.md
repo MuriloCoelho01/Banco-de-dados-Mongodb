@@ -1,7 +1,7 @@
 <h1>Atividades de Banco de Dados - MongoDB</h1>
 
 <p>Atividade visa desenvolver nossa capacidade de manipulação de <b>Banco de Dados</b> <br>
-utilizando o a Metodologia <b>CRUD</b><br><br>
+utilizando a Metodologia <b>CRUD</b><br><br>
 <b>C - Create<br>
 R - Read <br>
 U - Update <br>
