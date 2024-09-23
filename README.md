@@ -1,5 +1,15 @@
 <h1>Atividades de Banco de Dados - MongoDB</h1>
 
+<p>Atividade visa desenvolver nossa capacidade de manipulação de <b>Banco de Dados</b> <br>
+utilizando o a Metodologia <b>CRUD</b><br><br>
+<b>C - Create<br>
+R - Read <br>
+U - Update <br>
+D - Delete <br>
+</p>
+<hr>
+<h3>Exercícios</h3>
+
 <h4>1- Quantas vezes Natalie Portman foi indicada ao Oscar?</h4>
 <p>Natalie Portman foi indicada 3 vezes ao Oscar.</p>
 
